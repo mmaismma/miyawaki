@@ -122,7 +122,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 
 .reveal .light {
-  font-family: "Lato Light";
+  font-family: "Lato";
+  font-weight: 300;
 }
 
 /* Remove trailing margins after titles */
