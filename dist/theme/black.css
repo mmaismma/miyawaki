@@ -91,12 +91,14 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal h1 {
   font-size: var(--r-heading1-size);
-  font-family: "Lato Black";
+  font-family: "Lato";
+  font-weight: 900;
 }
 
 .reveal h2 {
   font-size: var(--r-heading2-size);
-  font-family: "Lato Black";
+  font-family: "Lato";
+  font-weight: 900;
 }
 
 .reveal h3 {
