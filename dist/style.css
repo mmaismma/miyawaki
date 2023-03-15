@@ -1,6 +1,5 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,400;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 
 * {
     box-sizing: border-box;
@@ -12,7 +11,8 @@
     left: 50%;
     width: max-content;
     transform: translate(-50%, 0);
-    font-family: "Lato Black"!important;
+    font-family: "Lato"!important;
+    font-weight: 900!important;
 }
 
 .backgrounds::after {
@@ -274,6 +274,7 @@
 
 [data-state="akira-miyawaki"] h2 {
     font-family: "Lato Black";
+    font-weight: 900;
 }
 
 [data-state="akira-miyawaki"] > .text > ul, [data-state="akira-miyawaki"] > .text > ol {
