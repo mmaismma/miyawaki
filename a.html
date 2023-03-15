@@ -1,0 +1,72 @@
+<div class="draggable"></div>
+
+<style>
+    .draggable {
+        width: 100px;
+        height: 100px;
+        background: red;
+    }
+</style>
+
+<script>
+    const d = document.getElementsByClassName("draggable");
+
+    for (let i = 0; i < d.length; i++) {
+        d[i].style.position = "relative";
+    }
+
+    function filter(e) {
+        let target = e.target;
+
+        if (!target.classList.contains("draggable")) {
+            return;
+        }
+
+        target.moving = true;
+
+        //NOTICE THIS 👇
+        // Check if the event has touch events
+        // If yes, use them. Otherwise, use the mouse input
+        target.oldX = e.touches?.[0].clientX ?? e.clientX;
+        target.oldY = e.touches?.[0].clientY ?? e.clientY;
+        console.log(target);
+        //NOTICE THIS 👆 Since there can be multiple touches, you need to mention which touch to look for, we are using the first touch only in this case
+
+        target.oldLeft = window.getComputedStyle(target).getPropertyValue('left').split('px')[0] * 1;
+        target.oldTop = window.getComputedStyle(target).getPropertyValue('top').split('px')[0] * 1;
+
+        document.onmousemove = dr;
+        //NOTICE THIS 👇
+        document.ontouchmove = dr;
+        //NOTICE THIS 👆
+
+        function dr(event) {
+            event.preventDefault();
+
+            if (!target.moving) {
+                return;
+            }
+            //NOTICE THIS 👇
+            if (event.clientX) {
+                target.distX = (event.touches?.[0].clientX ?? event.clientX) - target.oldX;
+                target.distY = (event.touches?.[0].clientY ?? event.clientY) - target.oldY;
+                //NOTICE THIS 👆
+
+                target.style.left = target.oldLeft + target.distX + "px";
+                target.style.top = target.oldTop + target.distY + "px";
+            }
+
+            function endDrag() {
+                target.moving = false;
+            }
+            target.onmouseup = endDrag;
+            //NOTICE THIS 👇
+            target.ontouchend = endDrag;
+            //NOTICE THIS 👆
+        }
+    }
+        document.onmousedown = filter;
+        //NOTICE THIS 👇
+        document.ontouchstart = filter;
+  //NOTICE THIS 👆
+</script>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100mm" height="100mm" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="clipPath11163">
+            <circle cx="623.43" cy="188.13" r="32.181" style="fill-rule:evenodd;fill:#f00;stroke-width:.8;stroke:#689d44"/>
+        </clipPath>
+        <clipPath id="clipPath11179">
+            <circle cx="623.43" cy="188.13" r="32.181" style="fill-rule:evenodd;fill:#f00;stroke-width:.8;stroke:#689d44"/>
+        </clipPath>
+        <clipPath id="clipPath11215">
+            <circle cx="623.43" cy="188.13" r="32.181" style="fill-rule:evenodd;fill:#f00;stroke-width:.8;stroke:#689d44"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(-143.63 -126.54)">
+        <circle transform="matrix(1.5537 0 0 1.5537 -774.99 -115.75)" cx="623.43" cy="188.13" r="32.181" clip-path="url(#clipPath11215)" style="fill-rule:evenodd;fill:#aace92;stroke-width:4;stroke:#689d44"/>
+        <circle cx="163.56" cy="155.08" r="7.7944" style="fill-opacity:.99216;fill-rule:evenodd;fill:#c8e0b6;stroke-width:.41108"/>
+        <circle cx="226.86" cy="184.71" r="9.28" style="fill-opacity:.99216;fill-rule:evenodd;fill:#c8e0b6;stroke-width:.48943"/>
+        <circle cx="188.08" cy="142.58" r="11.855" style="fill-rule:evenodd;fill:#689d44;stroke-width:.62522"/>
+        <circle cx="187.06" cy="215.83" r="5.6498" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.29797"/>
+        <circle cx="223.21" cy="203" r="5.6498" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.29797"/>
+        <circle cx="221.67" cy="154.76" r="9.5214" style="fill-rule:evenodd;fill:#689d44;stroke-width:.50216"/>
+        <text x="193.5365" y="173.13553" style="fill:#689d44;font-family:sans-serif;font-size:11.909px;line-height:1.25;stroke-width:.29774" xml:space="preserve"><tspan x="193.5365" y="173.13553" style="fill:#689d44;font-family:Lato;font-size:21.924px;font-weight:bold;stroke-width:.29774;text-align:center;text-anchor:middle">30x</tspan><tspan x="193.5365" y="191.22705" style="fill:#689d44;font-family:Lato;font-weight:bold;stroke-width:.29774;text-align:center;text-anchor:middle">DENSER</tspan></text>
+        <circle cx="207.67" cy="140" r="3.2454" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.17116"/>
+        <circle transform="matrix(1.5537 0 0 1.5537 -774.99 -115.75)" cx="631.21" cy="174.82" r="1.3943" clip-path="url(#clipPath11179)" style="fill-rule:evenodd;fill:#548235;stroke-width:.073537"/>
+        <circle cx="233.41" cy="167.01" r="3.2454" style="fill-rule:evenodd;fill:#548235;stroke-width:.17116"/>
+        <circle cx="173" cy="207.44" r="7.7944" style="fill-opacity:.99216;fill-rule:evenodd;fill:#c8e0b6;stroke-width:.41108"/>
+        <circle cx="156.33" cy="187.7" r="5.6498" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.29797"/>
+        <circle transform="matrix(1.5537 0 0 1.5537 -770.44 -115.96)" cx="603.49" cy="187.52" r="2.0888" clip-path="url(#clipPath11163)" style="fill-rule:evenodd;fill:#548235;stroke-width:.11017"/>
+        <circle cx="154.01" cy="168.97" r="4.7624" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.25117"/>
+        <circle cx="160.91" cy="200.53" r="3.2454" style="fill-rule:evenodd;fill:#548235;stroke-width:.17116"/>
+        <circle cx="188.76" cy="200.49" r="3.2454" style="fill-rule:evenodd;fill:#548235;stroke-width:.17116"/>
+        <circle cx="204.17" cy="210.71" r="9.5214" style="fill-rule:evenodd;fill:#689d44;stroke-width:.50216"/>
+        <circle cx="211.73" cy="196.81" r="3.2454" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.17116"/>
+    </g>
+</svg>

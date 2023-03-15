@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100mm" height="100mm" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <marker id="marker2579" style="overflow:visible;fill:#747271" markerHeight="2" markerWidth="2.135" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 6.1347524 5.9304951">
+            <path transform="scale(.7)" d="m-0.21115-4.1056 6.4223 3.2111a1 1 90 0 1 0 1.7889l-6.4223 3.2111a1.2361 1.2361 31.717 0 1-1.7889-1.1056v-6a1.2361 1.2361 148.28 0 1 1.7889-1.1056z" style="fill-rule:evenodd;fill:context-stroke"/>
+        </marker>
+        <clipPath id="clipPath7802">
+            <circle cx="300.95" cy="247.98" r="32.181" style="fill-rule:evenodd;fill:#f00;stroke-width:.8;stroke:#689d44"/>
+        </clipPath>
+        <clipPath id="clipPath25541">
+            <circle transform="translate(.24913)" cx="300.95" cy="247.98" r="32.181" clip-path="url(#clipPath7802)" style="fill-rule:evenodd;fill:#aace92"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(-2.0925 -126.54)">
+        <circle transform="matrix(1.5537 0 0 1.5537 -415.49 -208.74)" cx="300.95" cy="247.98" r="32.181" clip-path="url(#clipPath7802)" style="fill-rule:evenodd;fill:#aace92"/>
+        <text x="51.708435" y="151.08376" style="fill:#689d44;font-family:Lato;font-size:12px;line-height:1.25;stroke-width:.29774" xml:space="preserve"><tspan x="51.708435" y="151.08376" style="fill:#689d44;font-family:Lato;font-size:21.924px;font-weight:bold;stroke-width:.29774;text-align:center;text-anchor:middle">10x</tspan><tspan x="51.708435" y="169.17528" style="fill:#689d44;font-family:Lato;font-weight:bold;stroke-width:.29774;text-align:center;text-anchor:middle">FASTER</tspan></text>
+        <g transform="matrix(1.5537 0 0 1.5537 -415.88 -208.74)" clip-path="url(#clipPath25541)">
+            <path d="m285.75 259.87a5.0167 5.0167 0 0 1-5.0167 5.0167 5.0167 5.0167 0 0 1-5.0167-5.0167 5.0167 5.0167 0 0 1 5.0167-5.0167 5.0167 5.0167 0 0 1 5.0167 5.0167z" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.26458"/>
+            <path d="m298.01 262.97a5.9729 5.9729 0 0 1-5.9728 5.9728 5.9729 5.9729 0 0 1-5.9729-5.9728 5.9729 5.9729 0 0 1 5.9729-5.9729 5.9729 5.9729 0 0 1 5.9728 5.9729z" style="fill-rule:evenodd;fill:#689d44;stroke-width:.31501"/>
+            <path d="m309.13 254.52a8.7374 8.7374 0 0 1-8.7374 8.7374 8.7374 8.7374 0 0 1-8.7374-8.7374 8.7374 8.7374 0 0 1 8.7374-8.7374 8.7374 8.7374 0 0 1 8.7374 8.7374z" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.46081"/>
+            <path d="m309.25 268.08a3.6364 3.6364 0 0 1-3.6364 3.6364 3.6364 3.6364 0 0 1-3.6364-3.6364 3.6364 3.6364 0 0 1 3.6364-3.6364 3.6364 3.6364 0 0 1 3.6364 3.6364z" style="fill-rule:evenodd;fill:#689d44;stroke-width:.19178"/>
+            <path d="m326.68 256.3a3.6364 3.6364 0 0 1-3.6364 3.6364 3.6364 3.6364 0 0 1-3.6364-3.6364 3.6364 3.6364 0 0 1 3.6364-3.6364 3.6364 3.6364 0 0 1 3.6364 3.6364z" style="fill-rule:evenodd;fill:#689d44;stroke-width:.19178"/>
+            <path d="m318.75 259.87a6.1282 6.1282 0 0 1-6.1282 6.1282 6.1282 6.1282 0 0 1-6.1282-6.1282 6.1282 6.1282 0 0 1 6.1282-6.1282 6.1282 6.1282 0 0 1 6.1282 6.1282z" style="fill-rule:evenodd;fill:#70ad47;stroke-width:.3232"/>
+            <path d="m323.05 257.59v44.893" style="marker-start:url(#marker2579);stroke-miterlimit:4.1;stroke:#747271"/>
+            <path d="m312.62 262v44.893" style="marker-start:url(#marker2579);stroke-miterlimit:4.1;stroke:#747271"/>
+            <path d="m305.61 268.3v44.893" style="marker-start:url(#marker2579);stroke-miterlimit:4.1;stroke:#747271"/>
+            <path d="m300.4 255.37v44.893" style="marker-start:url(#marker2579);stroke-miterlimit:4.1;stroke:#747271"/>
+            <path d="m292.03 263.74v44.893" style="marker-start:url(#marker2579);stroke-miterlimit:4.1;stroke:#747271"/>
+            <path d="m280.74 261.75v44.893" style="marker-start:url(#marker2579);stroke-miterlimit:4.1;stroke:#747271"/>
+        </g>
+        <circle transform="matrix(1.5537 0 0 1.5537 -415.49 -208.74)" cx="300.95" cy="247.98" r="32.181" clip-path="url(#clipPath7802)" style="fill:none;stroke-width:4;stroke:#689d44"/>
+    </g>
+</svg>
